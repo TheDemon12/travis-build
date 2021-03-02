@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.com/TheDemon12/travis-build.svg?branch=master)](https://travis-ci.com/TheDemon12/travis-build)
+
 # Overview
 This is a very simple, bare-bones NodeJS project created for you to use with Docker.
 
